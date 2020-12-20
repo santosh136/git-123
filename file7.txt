@@ -1,0 +1,8 @@
+This is 7th file changes in fil7
+ new change
+<<<<<<< HEAD
+again
+change in local repository
+=======
+again  hiiiiii
+>>>>>>> 7601da81545300ccc34dc24d5356cc6affcd8ee1
